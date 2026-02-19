@@ -727,3 +727,16 @@ textarea:focus {
     padding: 7px 8px;
   }
 }
+
+@keyframes FaidIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.hero__content {
+  animation: FaidIn 2s ease;
+}
