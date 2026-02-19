@@ -275,13 +275,24 @@ h1 {
 
 /* Side profile card */
 .hero__card {
-  background: rgba(255, 255, 255, 0.06);
+  /*background: rgba(255, 255, 255, 0.06);
   border: 1px solid rgba(255, 255, 255, 0.12);
   border-radius: var(--radius);
   padding: 16px;
-  box-shadow: var(--shadow);
+  box-shadow: var(--shadow);*/
   position: sticky;
   top: 84px;
+  text-align: center;
+  animation: FaidInImg 2s ease;
+  animation-delay: 1s;
+  animation-fill-mode: backwards;
+}
+
+.hero__card img {
+  max-width: 70%;
+  border-radius: 50%;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  box-shadow: 0 18px 60px rgba(255, 255, 255, 0.15);
 }
 
 .profile {
@@ -377,7 +388,7 @@ h1 {
 
 /* Sections */
 .section {
-  padding: 54px 0;
+  padding: 5rem 0;
 }
 
 .section--alt {
@@ -728,15 +739,28 @@ textarea:focus {
   }
 }
 
-@keyframes FaidIn {
+@keyframes FaidInImg {
   0% {
     opacity: 0;
+    transform: translateY(40px);
   }
   100% {
     opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes FaidInHero {
+  0% {
+    opacity: 0;
+    transform: translateX(40px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateX(0);
   }
 }
 
 .hero__content {
-  animation: FaidIn 2s ease;
+  animation: FaidInHero 2s ease;
 }
