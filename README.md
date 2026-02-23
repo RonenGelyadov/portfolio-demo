@@ -6,20 +6,20 @@ This is my personal portfolio website, showcasing my projects, technical skills,
 
 The website was built using a **"Back to Basics"** approach to ensure near-instant loading times:
 * **Frontend:** Semantic HTML5 and modern CSS3 utilizing Variables, Flexbox, and Grid.
-* **Design:** Glassmorphism concept featuring background glow effects and entry animations[cite: 1].
+* **Design:** Glassmorphism concept featuring background glow effects and entry animations.
 
 ## 🌟 Features
 
-* **Responsive Design:** Fully optimized for mobile, tablet, and desktop via Media Queries[cite: 1].
+* **Responsive Design:** Fully optimized for mobile, tablet, and desktop via Media Queries.
 * **Accessibility:** Implemented using ARIA roles and proper semantic tags for better screen reader support.
 * **Project Showcase:** A diverse display of projects ranging from SaaS platforms to API development and Unity games.
-* **Interactive UI:** Smooth hover effects, ghost buttons, and a sticky navigation bar with a backdrop filter[cite: 1].
+* **Interactive UI:** Smooth hover effects, ghost buttons, and a sticky navigation bar with a backdrop filter.
 
 ## 📁 Project Structure
 
 * `index.html`: The core structure and primary content of the site.
-* `style.css`: Full styling, animations, and color variable management[cite: 1].
-* `ProfilePic.jpg`: Optimized profile imagery[cite: 2].
+* `style.css`: Full styling, animations, and color variable management.
+* `ProfilePic.jpg`: Optimized profile imagery.
 
 ## 🚀 Featured Projects
 
