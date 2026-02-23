@@ -1,41 +1,37 @@
-🚀 Ronen Gelyadov | Full-Stack AI Developer Portfolio
+# 🚀 Ronen Gelyadov | Full-Stack AI Developer Portfolio
+
 This is my personal portfolio website, showcasing my projects, technical skills, and experience in the development world. The site is built with a focus on high performance, clean code, and a modern design that is fully responsive across all devices.
 
-🛠 Tech Stack
-The website was built using a "Back to Basics" approach to ensure near-instant loading times:
+## 🛠 Tech Stack
 
-Frontend: Semantic HTML5 and modern CSS3 utilizing Variables, Flexbox, and Grid.
+The website was built using a **"Back to Basics"** approach to ensure near-instant loading times:
+* **Frontend:** Semantic HTML5 and modern CSS3 utilizing Variables, Flexbox, and Grid.
+* [cite_start]**Design:** Glassmorphism concept featuring background glow effects and entry animations[cite: 1].
 
-Design: Glassmorphism concept featuring background glow effects and entry animations.
+## 🌟 Features
 
-🌟 Features
-Responsive Design: Fully optimized for mobile, tablet, and desktop via Media Queries.
+* [cite_start]**Responsive Design:** Fully optimized for mobile, tablet, and desktop via Media Queries[cite: 1].
+* **Accessibility:** Implemented using ARIA roles and proper semantic tags for better screen reader support.
+* **Project Showcase:** A diverse display of projects ranging from SaaS platforms to API development and Unity games.
+* [cite_start]**Interactive UI:** Smooth hover effects, ghost buttons, and a sticky navigation bar with a backdrop filter[cite: 1].
 
-Accessibility: Implemented using ARIA roles and proper semantic tags for better screen reader support.
+## 📁 Project Structure
 
-Project Showcase: A diverse display of projects ranging from SaaS platforms to API development and Unity games.
+* `index.html`: The core structure and primary content of the site.
+* [cite_start]`style.css`: Full styling, animations, and color variable management[cite: 1].
+* [cite_start]`ProfilePic.jpg`: Optimized profile imagery[cite: 2].
 
-Interactive UI: Smooth hover effects, ghost buttons, and a sticky navigation bar with a backdrop filter.
+## 🚀 Featured Projects
 
-📁 Project Structure
-index.html: The core structure and primary content of the site.
+1. **MinuteBoss:** A time and task management system (React, Node, Postgres).
+2. **TaskFlow Backend:** A modular REST API infrastructure with JWT authentication.
+3. **Pixel Combat:** A 2D action game developed in Unity (C#).
 
-style.css: Full styling, animations, and color variable management.
+## 📧 Contact Me
 
-ProfilePic.jpg: Optimized profile imagery.
-
-🚀 Featured Projects
-MinuteBoss: A time and task management system (React, Node, Postgres).
-
-TaskFlow Backend: A modular REST API infrastructure with JWT authentication.
-
-Pixel Combat: A 2D action game developed in Unity (C#).
-
-📧 Contact Me
 I am always open to interesting collaborations or new opportunities:
+* **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/ronen-gelyadov-202156230)
+* **GitHub:** [GitHub Profile](https://github.com/RonenGelyadov)
 
-LinkedIn: LinkedIn Profile
-
-GitHub: GitHub Profile
-
+---
 © 2026 Ronen Gelyadov.
